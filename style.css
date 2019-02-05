@@ -1,0 +1,85 @@
+body{
+    background-color:rgb(28, 146, 136);
+     background-image:url(https://mindorks.files.wordpress.com/2018/01/4e185-1ip0pzufq3pq7ktuv0nz7fq.jpg);
+      background-attachment:fixed;
+       background-repeat: no-repeat;
+        background-position: right;
+         background-size: 25%;
+}
+
+#tnt1 {
+    background-color:lightblue;
+     color:red;
+      text-align:center;
+       text-transform:lowercase;
+        border: 10px double purple;
+         margin:auto;
+          padding-left:35px;
+          
+
+}
+
+.tnt2 {
+    font-family: verdana;
+     font-weight:bold;
+      font-style:italic;
+       height:400px;
+        width:50%;
+         text-align:center;
+          text-transform: uppercase;
+           text-decoration: overline;
+}
+
+#tnt3 {
+    text-decoration:underline;
+     text-transform:capitalize;
+      letter-spacing:13px;
+       word-spacing:19px;
+        text-indent:40px;
+         text-shadow: 3px 5px green;
+}
+
+ul  {
+    list-style-type:circle;
+      background-color:#3399ff;
+       padding-left:120px;
+}
+
+ol {
+    list-style-type:square;
+      background-color:#ff9999;
+        margin-left:130px;
+}
+
+#tnt4{
+    border:1px dashed black;
+      margin-left:20px;
+       padding-top:8px;
+        text-indent:25px;
+          width:150px;
+           height:400px;
+             overflow:scroll;
+}
+
+a:link{
+    color:red;
+     border:2px dotted purple;
+      font-size:25px;
+        margin-left:500px;
+          text-decoration:underline;
+}
+
+a:visited{
+    color:black;
+      text-decoration:none;
+}
+
+a:hover{
+    color:#ff9999;
+      text-decoration:none;
+}
+
+a:active{
+    color:blue;
+      text-decoration:none;
+}
